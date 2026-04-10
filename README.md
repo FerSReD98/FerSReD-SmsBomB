@@ -10,7 +10,7 @@ _It's enough to make a man go crazy_
 <h2>Kurulum</h2>
 
 ```console
-git clone https://github.com/FerSReD98/FerSReD98
+git clone https://github.com/FerSReD98/FerSReD-SmsBomB
 cd FerSReD-SmsBomB 
 pip3 install -r requirements.txt
 python3 fersred-calistir.py
