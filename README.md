@@ -10,10 +10,10 @@ _It's enough to make a man go crazy_
 <h2>Kurulum</h2>
 
 ```console
-git clone https://github.com/tingirifistik/Enough-Reborn.git
-cd Enough-Reborn
+git clone https://github.com/FerSReD98/FerSReD98
+cd FerSReD-SmsBomB 
 pip3 install -r requirements.txt
-python3 enough.py
+python3 fersred-calistir.py
 ```
 
 
