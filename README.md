@@ -3,7 +3,7 @@ _Bir adamı delirtmeye yetiyor_
 <br><br>
 [![Hits](https://hits.sh/github.com/FerSReD98/FerSReD-SmsBomB.svg?label=G%C3%B6r%C3%BCnt%C3%BClenme&extraCount=194&color=5c0101&labelColor=260202)](https://hits.sh/github.com/FerSReD98/FerSReD-SmsBomB/)
 
-<img src=https://github.com/FerSReD98/FerSReD-SmsBomB/blob/main/20260411_024356.jpg height="200px" width="400px"/>
+<img src=https://github.com/FerSReD98/FerSReD-SmsBomB/blob/main/20260411_024356.jpg height="250px" width="400px"/>
 <img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
 
 
