@@ -1,7 +1,7 @@
-# Enough
-_It's enough to make a man go crazy_
+# FerSReD SmSBomB
+_Bir adamı delirtmeye yetiyor_
 <br><br>
-[![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
+[![Hits](https://hits.sh/github.com/FerSReD98/FerSReD-SmsBomB.svg?label=views&color=007ec6)](https://hits.sh/github.com/FerSReD98/FerSReD-SmsBomB)
 
 <img src=https://github.com/FerSReD98/FerSReD-SmsBomB/blob/main/20260411_024356.jpg height="200px" width="400px"/>
 <img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
