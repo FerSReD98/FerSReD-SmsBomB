@@ -7,7 +7,7 @@ _Bir adamı delirtmeye yetiyor_
 <img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="300px" width="400px"/>
 
 
-<h2>Kurulum</h2>
+<h2>Kurulum [Linux/Termux]</h2>
 
 ```console
 git clone https://github.com/FerSReD98/FerSReD-SmsBomB
