@@ -1,4 +1,4 @@
-# FerSReD SmSBomB
+# FerSReD SmsBomB
 _Bir adamı delirtmeye yetiyor_
 <br><br>
 [![Hits](https://hits.sh/github.com/FerSReD98/FerSReD-SmsBomB.svg?label=G%C3%B6r%C3%BCnt%C3%BClenme&extraCount=194&color=5c0101&labelColor=260202)](https://hits.sh/github.com/FerSReD98/FerSReD-SmsBomB/)
